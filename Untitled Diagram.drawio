@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-05T22:29:23.523Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 OPR/104.0.0.0" etag="voFKrK36Ht6NmGXANqBX" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-05T22:42:22.023Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 OPR/104.0.0.0" etag="weG14NURnxWBCIvKDIhw" version="22.1.5" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="1261" dy="688" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" background="none" math="0" shadow="0">
       <root>
@@ -76,8 +76,24 @@
         <mxCell id="IJUFxIe87rOsJzYtrhsl-80" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;quantidade&lt;/font&gt;" style="shape=manualInput;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="245" y="810" width="150" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="IJUFxIe87rOsJzYtrhsl-82" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;encerrar = &#39;n&#39;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="IJUFxIe87rOsJzYtrhsl-85" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IJUFxIe87rOsJzYtrhsl-82">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="550" y="1074" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IJUFxIe87rOsJzYtrhsl-82" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;tipo de entrada = 1&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="235" y="990" width="170" height="167.5" as="geometry" />
+        </mxCell>
+        <mxCell id="IJUFxIe87rOsJzYtrhsl-88" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IJUFxIe87rOsJzYtrhsl-86">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="880" y="1074" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IJUFxIe87rOsJzYtrhsl-86" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;encerrar = &#39;n&#39;&lt;/font&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="1028.75" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="IJUFxIe87rOsJzYtrhsl-89" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&quot;Saldo inicial do estoque: &quot; + saldo&lt;/font&gt;" style="shape=display;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="890" y="1028.75" width="200" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
