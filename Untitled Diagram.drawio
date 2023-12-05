@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-05T22:11:12.219Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 OPR/104.0.0.0" etag="iJzA3oprWb6kDskaTkyb" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-05T22:21:30.054Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 OPR/104.0.0.0" etag="v6BLQ3ydd-nCye-MacmD" version="22.1.5" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="1009" dy="550" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -9,13 +9,7 @@
         </mxCell>
         <mxCell id="7" style="fontStyle=1;strokeColor=#003366;strokeWidth=1;html=1;" parent="1" source="2" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="322.75" y="130" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="8" style="fontStyle=1;strokeColor=#003366;strokeWidth=1;html=1;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="323.1666666666665" y="210" as="sourcePoint" />
-            <mxPoint x="321.58333333333326" y="250" as="targetPoint" />
+            <mxPoint x="320" y="130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="45" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;exitX=1;exitY=0.5;exitPerimeter=0;entryX=0.905;entryY=0.5;entryPerimeter=0;fontStyle=1;strokeColor=#003366;strokeWidth=1;html=1;" parent="1" target="34" edge="1">
@@ -36,8 +30,24 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="IJUFxIe87rOsJzYtrhsl-58" value="&lt;br&gt;SALDO INICIAL DO ESTOQUE." style="shape=manualInput;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="120" width="130" height="90" as="geometry" />
+        <mxCell id="IJUFxIe87rOsJzYtrhsl-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IJUFxIe87rOsJzYtrhsl-58">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="530" y="175" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IJUFxIe87rOsJzYtrhsl-58" value="&lt;br&gt;SALDO" style="shape=manualInput;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="120" width="150" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="IJUFxIe87rOsJzYtrhsl-73" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IJUFxIe87rOsJzYtrhsl-61">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="640" y="295" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IJUFxIe87rOsJzYtrhsl-61" value="&quot;Saldo inicial do estoque: &quot; + saldo" style="shape=display;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="120" width="200" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="IJUFxIe87rOsJzYtrhsl-64" value="" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="310" width="180" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
